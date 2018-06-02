@@ -35,5 +35,5 @@
 
 @push('jsFiles')
 <!-- place holder -->
-        <script src="js/mfeweb.js"></script>
+        <script src="js/mfework.js"></script>
 @endpush
