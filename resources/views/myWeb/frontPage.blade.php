@@ -16,8 +16,8 @@
                     alt="What the Health: Direct or Netflix"/>
                 </a>
                 <figcaption><p class='titleColorTwo'>Whole Foods</p></figcaption>
-                <figcaption><p class='harvard'>No Meat (& Products)</p></figcaption>
-                <figcaption><p class='titleColorTwo'>No Milk (& Products)</p></figcaption>
+                <figcaption><p class='harvard'>No Meat)</p></figcaption>
+                <figcaption><p class='titleColorTwo'>No Milk</p></figcaption>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>The Magic Pill</p></figcaption>
@@ -26,8 +26,8 @@
                     alt="The Magic Pill: Netflix"/>
                 </a>
                 <figcaption><p class='titleColorTwo'>Whole Foods</p></figcaption>
-                <figcaption><p class='harvard'>No Milk (& Products)</p></figcaption>
-                <figcaption><p class='titleColorTwo'>Meat (& Products)</p></figcaption>
+                <figcaption><p class='harvard'>No Milk</p></figcaption>
+                <figcaption><p class='titleColorTwo'>Meat</p></figcaption>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>The C Word</p></figcaption>
@@ -36,7 +36,7 @@
                     alt="The C Word: Direct or Netflix"/>
                 </a>
                 <figcaption><p class='titleColorTwo'>Healthy Diet</p></figcaption>
-                <figcaption><p class='harvard'>Excercise (No Stress)</p></figcaption>
+                <figcaption><p class='harvard'>Excercise</p></figcaption>
                 <figcaption><p class='titleColorTwo'>No Toxin</p></figcaption>
             </figure>
             <figure>
@@ -58,21 +58,21 @@
                 <figcaption><p class='harvard'>Where</p></figcaption>
                 <figcaption><p class='titleColorTwo'>How</p></figcaption>
             </figure>
-            <h2 class='harvard'>the Questions</h2>
+            <h2 class='harvard'>Questions</h2>
             <figure>
-                <figcaption><p class='titleColorTwo'>Any Milk is harmful</p></figcaption>
+                <figcaption><p class='titleColorTwo'>Milk is harmful</p></figcaption>
             </figure>
             <figure>
-                <figcaption><p class='titleColorTwo'>Any Meat is harmful</p></figcaption>
+                <figcaption><p class='titleColorTwo'>Meat is harmful</p></figcaption>
             </figure>
             <figure>
-                <figcaption><p class='titleColorTwo'>Any Legume is harmful</p></figcaption>
+                <figcaption><p class='titleColorTwo'>Legume is harmful</p></figcaption>
             </figure>
             <figure>
-                <figcaption><p class='titleColorTwo'>Any Sugar is harmful</p></figcaption>
+                <figcaption><p class='titleColorTwo'>Sugar is harmful</p></figcaption>
             </figure>
             <figure>
-                <figcaption><p class='titleColorTwo'>Any City is harmful</p></figcaption>
+                <figcaption><p class='titleColorTwo'>City is harmful</p></figcaption>
             </figure>
         </main>
 @endpush
