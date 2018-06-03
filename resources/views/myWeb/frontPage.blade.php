@@ -3,23 +3,38 @@
 <!-- place holder -->
         <header>
             <h1>M.F.E is a Vegan. Why?</h1>
-            <figure>
-                <a href="images/thisIsMyMovie.png" target="_blank">
-                    <img class="img14 aPng" src="images/Design5_Erten-MehmetBlue.png"
-                        alt="CSCI E-50 Introduction to Communication Design Project in Adobe Illustrator"/>
-                </a>
-            </figure>
         </header>
 @endpush
 @push('module')
 <!-- place holder -->
         <main>
-            <h2 class='harvard'>Here are Netflix Documentaries</h2>
+            <h2 class='harvard'>Here are the Documentaries</h2>
             <figure>
-                <figcaption><p class='harvard'>Programming</p></figcaption>
-                <a href="images/programmingcertificate.png" target="_blank">
-                    <img class="img10 aPng" src="images/programmingcertificate.png"
-                        alt="MFE Harvard FAS DCE HES Programming Certificate"/>
+                <figcaption><p class='harvard'>What the Health</p></figcaption>
+                <a href="http://www.whatthehealthfilm.com/" target="_blank">
+                    <img class="img10 aPng" src="images/whatTheHealth.jpg"
+                    alt="What the Health: Direct or Netflix"/>
+                </a>
+            </figure>
+            <figure>
+                <figcaption><p class='harvard'>The Magic Pill</p></figcaption>
+                <a href="https://www.netflix.com/title/80238655" target="_blank">
+                    <img class="img10 aPng" src="images/theMagicPill.jpg"
+                    alt="The Magic Pill: Netflix"/>
+                </a>
+            </figure>
+            <figure>
+                <figcaption><p class='harvard'>The C Word</p></figcaption>
+                <a href="http://thecwordmovie.com/" target="_blank">
+                    <img class="img10 aPng" src="images/theCWord.jpg"
+                    alt="The C Word: Direct or Netflix"/>
+                </a>
+            </figure>
+            <figure>
+                <figcaption><p class='harvard'>In Search of Balance</p></figcaption>
+                <a href="https://www.netflix.com/title/80164396" target="_blank">
+                    <img class="img10 aPng" src="images/inSearchOfBalance.jpg"
+                    alt="In Search of Balance Netflix"/>
                 </a>
             </figure>
             <h2 class='harvard'>Here are the Questions</h2>
