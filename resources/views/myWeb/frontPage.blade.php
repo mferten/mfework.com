@@ -15,9 +15,9 @@
                     <img class="img8 aPng" src="images/whatTheHealth.jpg"
                     alt="What the Health: Direct or Netflix"/>
                 </a>
-                <figcaption><p class='harvard'>Whole Foods</p></figcaption>
-                <figcaption><p class='titleColorTwo'>No Meat</p></figcaption>
-                <figcaption><p class='harvard'>No Milk</p></figcaption>
+                <figcaption><p class='titleColorTwo'>Whole Foods</p></figcaption>
+                <figcaption><p class='harvard'>No Meat</p></figcaption>
+                <figcaption><p class='titleColorTwo'>No Milk</p></figcaption>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>The Magic Pill</p></figcaption>
@@ -35,9 +35,9 @@
                     <img class="img8 aPng" src="images/theCWord.jpg"
                     alt="The C Word: Direct or Netflix"/>
                 </a>
-                <figcaption><p class='harvard'>Healthy Diet!</p></figcaption>
-                <figcaption><p class='titleColorTwo'>Excercise</p></figcaption>
-                <figcaption><p class='harvard'>No Toxin</p></figcaption>
+                <figcaption><p class='titleColorTwo'>Healthy Diet!</p></figcaption>
+                <figcaption><p class='harvard'>Excercise</p></figcaption>
+                <figcaption><p class='titleColorTwo'>No Toxin</p></figcaption>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>In Search of Balance</p></figcaption>
@@ -54,26 +54,17 @@
                 <a href="https://www.nationalgeographic.com/foodfeatures/evolution-of-diet/" target="_blank">
                     <img class="img8 aPng" src="images/evolutionOfDiet.jpg" alt="Humans eat what, where, how?"/>
                 </a>
-                <figcaption><p class='harvard'>What?</p></figcaption>
-                <figcaption><p class='titleColorTwo'>Where?</p></figcaption>
-                <figcaption><p class='harvard'>How?</p></figcaption>
+                <figcaption><p class='titleColorTwo'>What?</p></figcaption>
+                <figcaption><p class='harvard'>Where?</p></figcaption>
+                <figcaption><p class='titleColorTwo'>How?</p></figcaption>
             </figure>
-            <h2 class='titleColorTwo'>And</h2>
-            <figure>
-                <figcaption><p class='harvard'>Milk is harmful</p></figcaption>
-            </figure>
-            <figure>
-                <figcaption><p class='harvard'>Meat is harmful</p></figcaption>
-            </figure>
-            <figure>
-                <figcaption><p class='harvard'>Is Legume harmful?</p></figcaption>
-            </figure>
-            <figure>
-                <figcaption><p class='harvard'>Is Sugar harmful?</p></figcaption>
-            </figure>
-            <figure>
-                <figcaption><p class='harvard'>City is harmful</p></figcaption>
-            </figure>
+            <ul class="ulListStyle">
+                <li class='harvard'>- Milk is harmful -</li>
+                <li class='harvard'>- Meat is harmful -</li>
+                <li class='harvard'>- Legume harmful (?) -</li>
+                <li class='harvard'>- Sugar harmful (?) -</li>
+                <li class='harvard'>- City is harmful (?) -</li>
+            </ul>
         </main>
 @endpush
 
