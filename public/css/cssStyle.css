@@ -83,15 +83,19 @@ a:hover {
     color: papayaWhip;
 }
 
+li a {
+    color: #f5b4b4;
+}
+
 li a:hover {
-    box-shadow: .1rem .3rem .5rem .2rem #eab358;
+    box-shadow: .1rem .3rem .5rem .2rem #de00ff;
 }
 
 figure {
     display: inline-block;
 }
 figure a:hover {
-    box-shadow: .1rem .3rem .5rem .2rem #eab358;
+    box-shadow: .1rem .3rem .5rem .2rem #de00ff;
 }
 
 figcaption {
