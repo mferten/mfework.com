@@ -15,9 +15,9 @@
                     <img class="img8 aPng" src="images/whatTheHealth.jpg"
                     alt="What the Health: Direct or Netflix"/>
                 </a>
-                <figcaption><p class='titleColorTwo'>Whole Foods</p></figcaption>
-                <figcaption><p class='harvard'>No Meat</p></figcaption>
-                <figcaption><p class='titleColorTwo'>No Milk</p></figcaption>
+                <p class='titleColorTwo'>Whole Foods</p>
+                <p class='harvard'>No Meat</p>
+                <p class='titleColorTwo'>No Milk</p>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>The Magic Pill</p></figcaption>
@@ -25,9 +25,9 @@
                     <img class="img8 aPng" src="images/theMagicPill.jpg"
                     alt="The Magic Pill: Netflix"/>
                 </a>
-                <figcaption><p class='harvard'>Whole Foods</p></figcaption>
-                <figcaption><p class='titleColorTwo'>No Milk</p></figcaption>
-                <figcaption><p class='harvard'>Meat</p></figcaption>
+                <p class='harvard'>Whole Foods</p>
+                <p class='titleColorTwo'>No Milk</p>
+                <p class='harvard'>Meat</p>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>The C Word</p></figcaption>
@@ -35,9 +35,9 @@
                     <img class="img8 aPng" src="images/theCWord.jpg"
                     alt="The C Word: Direct or Netflix"/>
                 </a>
-                <figcaption><p class='titleColorTwo'>Healthy Diet!</p></figcaption>
-                <figcaption><p class='harvard'>Excercise</p></figcaption>
-                <figcaption><p class='titleColorTwo'>No Toxin</p></figcaption>
+                <p class='titleColorTwo'>Healthy Diet!</p>
+                <p class='harvard'>Excercise</p>
+                <p class='titleColorTwo'>No Toxin</p>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>In Search of Balance</p></figcaption>
@@ -45,18 +45,18 @@
                     <img class="img8 aPng" src="images/inSearchOfBalance.jpg"
                     alt="In Search of Balance Netflix"/>
                 </a>
-                <figcaption><p class='harvard'>Whole Foods</p></figcaption>
-                <figcaption><p class='titleColorTwo'>Nature!</p></figcaption>
-                <figcaption><p class='harvard'>Integration!</p></figcaption>
+                <p class='harvard'>Whole Foods</p>
+                <p class='titleColorTwo'>Nature!</p>
+                <p class='harvard'>Integration!</p>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>Evolution of Diet</p></figcaption>
                 <a href="https://www.nationalgeographic.com/foodfeatures/evolution-of-diet/" target="_blank">
                     <img class="img8 aPng" src="images/evolutionOfDiet.jpg" alt="Humans eat what, where, how?"/>
                 </a>
-                <figcaption><p class='titleColorTwo'>What?</p></figcaption>
-                <figcaption><p class='harvard'>Where?</p></figcaption>
-                <figcaption><p class='titleColorTwo'>How?</p></figcaption>
+                <p class='titleColorTwo'>What?</p>
+                <p class='harvard'>Where?</p>
+                <p class='titleColorTwo'>How?</p>
             </figure>
             <ul class="ulListStyle">
                 <li class='harvard'>- Milk is harmful -</li>
