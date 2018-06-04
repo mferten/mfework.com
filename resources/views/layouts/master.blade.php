@@ -16,7 +16,7 @@
         <meta name="author" content="Mehmet Fatih Erten">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         {{-- Title --}}
-        <title>@yield('title', 'MFE is Vegan')</title>
+        <title>@yield('title', 'MFE is a Vegan')</title>
     </head>
     <body class="gridBox">
         {{-- header --}}
