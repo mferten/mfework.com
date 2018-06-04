@@ -63,7 +63,7 @@
                 <li class='harvard'>- Meat is harmful -</li>
                 <li>
                     <a class='harvard' href="https://www.healthline.com/nutrition/legumes-good-or-bad" target="_blank">- Legume -&nbsp;</a>
-                    <a  class='harvard' href="https://www.kitchenstewardship.com/monday-mission-sprout-something/" target="_blank">- harmful (?)</a>
+                    <a class='harvard' href="https://www.kitchenstewardship.com/monday-mission-sprout-something/" target="_blank">- harmful (?)</a>
                 </li>
                 <li class='harvard'>- Sugar harmful (?) -</li>
                 <li>
