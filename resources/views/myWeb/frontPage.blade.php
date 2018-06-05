@@ -8,7 +8,7 @@
 @push('module')
 <!-- place holder -->
         <main>
-            <h2 class='harvard'>Because</h2>
+            <h2 class='harvard'><a class="harvard" href="docs/whyMFEIsAVegan.jpg" target="_blank">Because</a></h2>
             <figure>
                 <figcaption><p class='titleColorTwo'>What the Health</p></figcaption>
                 <a href="http://www.whatthehealthfilm.com/" target="_blank">
