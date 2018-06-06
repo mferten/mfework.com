@@ -25,9 +25,9 @@
                     <img class="img8 aPng" src="images/theMagicPill.jpg"
                     alt="The Magic Pill: Netflix"/>
                 </a>
-                <p class='harvard'>Whole Foods</p>
-                <p class='titleColorTwo'>No Milk</p>
-                <p class='harvard'>Meat</p>
+                <p class='titleColorTwo'>Whole Foods</p>
+                <p class='harvard'>No Milk</p>
+                <p class='titleColorTwo'>Meat</p>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>The C Word</p></figcaption>
@@ -45,9 +45,9 @@
                     <img class="img8 aPng" src="images/inSearchOfBalance.jpg"
                     alt="In Search of Balance Netflix"/>
                 </a>
-                <p class='harvard'>Whole Foods</p>
-                <p class='titleColorTwo'>Nature!</p>
-                <p class='harvard'>Integration!</p>
+                <p class='titleColorTwo'>Whole Foods</p>
+                <p class='harvard'>Nature!</p>
+                <p class='titleColorTwo'>Integration!</p>
             </figure>
             <figure>
                 <figcaption><p class='titleColorTwo'>Evolution of Diet</p></figcaption>
@@ -60,12 +60,12 @@
             </figure>
             <ul class="ulListStyle">
                 <li class='harvard'>- Milk is harmful -</li>
-                <li class='harvard'>- Meat is harmful -</li>
+                <li class='titleColorTwo'>- Meat is harmful -</li>
                 <li>
                     <a class='harvard' href="https://www.healthline.com/nutrition/legumes-good-or-bad" target="_blank">- Legume -&nbsp;</a>
                     <a class='harvard' href="https://www.kitchenstewardship.com/monday-mission-sprout-something/" target="_blank">- harmful (?)</a>
                 </li>
-                <li class='harvard'>- Sugar harmful (?) -</li>
+                <li class='titleColorTwo'>- Sugar harmful (?) -</li>
                 <li>
                     <a class='harvard' href="https://www.scientificamerican.com/article/does-city-life-pose-a-risk-to-mental-health/" target="_blank">- City is harmful (?) -</a>
                 </li>
