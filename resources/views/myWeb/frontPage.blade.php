@@ -8,7 +8,7 @@
 @push('module')
 <!-- place holder -->
         <main>
-            <h2 class='harvard'><a class="harvard" href="docs/whyMFEIsAVegan.jpg" target="_blank">Because</a></h2>
+            <h2 class='harvard'><a class="harvard" href="docs/whyMFEIsAVegan.jpg" target="_blank">*** Because ***</a></h2>
             <figure>
                 <figcaption><p class='titleColorTwo'>What the Health</p></figcaption>
                 <a href="http://www.whatthehealthfilm.com/" target="_blank">
@@ -59,17 +59,15 @@
                 <p class='titleColorTwo'>How?</p>
             </figure>
             <ul class="ulListStyle">
-                <li class='harvard'>- Milk is harmful -</li>
-                <li class='titleColorTwo'>- Meat is harmful -</li>
                 <li>
                     <a class='harvard' href="https://www.healthline.com/nutrition/legumes-good-or-bad" target="_blank">- Legume -&nbsp;</a>
                     <a class='harvard' href="https://www.kitchenstewardship.com/monday-mission-sprout-something/" target="_blank">- harmful (?)</a>
                 </li>
-                <li class='titleColorTwo'>- Sugar harmful (?) -</li>
                 <li>
-                    <a class='harvard' href="https://www.scientificamerican.com/article/does-city-life-pose-a-risk-to-mental-health/" target="_blank">- City is harmful (?) -</a>
+                    <a class='titleColorTwo' href="https://www.scientificamerican.com/article/does-city-life-pose-a-risk-to-mental-health/" target="_blank">- City is harmful (?) -</a>
                 </li>
             </ul>
+            <h2><a class="harvard" href="docs/whatAndHowToEat.jpg" target="_blank">*** What and How M.F.E. Eats ***</a></h2>
         </main>
 @endpush
 
