@@ -60,8 +60,9 @@
             </figure>
             <ul class="ulListStyle">
                 <li>
-                    <a class='harvard' href="https://www.healthline.com/nutrition/legumes-good-or-bad" target="_blank">- Legume -&nbsp;</a>
-                    <a class='harvard' href="https://www.kitchenstewardship.com/monday-mission-sprout-something/" target="_blank">- harmful (?)</a>
+                    <a class='harvard' href="https://www.healthline.com/nutrition/legumes-good-or-bad" target="_blank">Legumes -</a>
+                    <a class='harvard' href="https://paleoleap.com/beans-and-legumes/" target="_blank">Harmful ! &nbsp;-</a>
+                    <a class='harvard' href="https://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm319948.htm" target="_blank">&nbsp;Arsenic in Rice !</a>
                 </li>
                 <li>
                     <a class='titleColorTwo' href="https://www.scientificamerican.com/article/does-city-life-pose-a-risk-to-mental-health/" target="_blank">- City is harmful (?) -</a>
