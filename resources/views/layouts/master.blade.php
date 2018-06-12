@@ -29,10 +29,7 @@
                 <ul class="ulListStyle">
                     <li>
                         <a href="https://www.mfeweb.com" target="_blank">&nbsp;M.F.E Sites&nbsp;</a>
-                        <a href="http://www.mywebbench.com" target="_blank">&nbsp;USVI&nbsp;</a>
-                        <a href="http://www.mfeworld.com/citations" target="_blank">&nbsp;Citations&nbsp;</a>
-                        <a href="https://github.com/mferten" target="_blank">&nbsp;GitHub&nbsp;</a>
-                        <a href="https://www.mfeweb.com/mail" target="_blank">&nbsp;Mail&nbsp;</a>
+                        <a>Your Opinion&nbsp;<img id="email" class="emailIconSize" src="images/email.png" alt="User's Opinion"/></a>
                     </li>
                 </ul>
             </nav>

@@ -158,6 +158,11 @@ p {
     font-weight: bold;
 }
 
+.emailIconSize {
+    width: 1.9rem;
+    height: 1.9rem;
+}
+
 /* responsive design values */
 @media (min-width: 1px) and (max-width: 440px) {
     body {
