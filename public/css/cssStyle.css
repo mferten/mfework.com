@@ -180,6 +180,10 @@ label {
     height: 1.9rem;
 }
 
+#mailText {
+    background-color: #ffc;
+}
+
 /* responsive design values */
 @media (min-width: 1px) and (max-width: 440px) {
     body {
