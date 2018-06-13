@@ -15,7 +15,7 @@
     /* a Flag is Selected: The Search starts */
     function clickEvents(event)
     {
-        if (event.target.id == "emailIcon")
+        if (event.target.id == "emailIcon" || event.target.id == "emailAnchor")
         {
             // if PhotoBox is Enabled (No displayNone class)
             if (!document.getElementById("documentaries").classList.contains("displayNone"))
