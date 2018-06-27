@@ -11,12 +11,12 @@
         <!-- require_once("phpfile/require/headTags.php") -->
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="MFE is a Vegan">
-        <meta name="keywords" content="Why MFE is a Vegan?">
+        <meta name="description" content="Can MFE Stay Vegan?">
+        <meta name="keywords" content="Can MFE Stay Vegan? Pressure to be a Lacto Vegetarian">
         <meta name="author" content="Mehmet Fatih Erten">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         {{-- Title --}}
-        <title>@yield('title', 'MFE is a Vegan')</title>
+        <title>@yield('title', 'Can MFE Stay Vegan?')</title>
     </head>
     <body class="gridBox">
         {{-- header --}}

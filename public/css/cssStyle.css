@@ -27,6 +27,12 @@
 }
 /* End: Google Latin */
 
+/* DGMD E-20 Wiki */
+[href*=".pdf"] {
+	padding-right: 20px;
+	background: url(/images/pdf.gif) no-repeat right;
+}
+
 html {
     font-family: Arial, Helvetica, "Lucida Sans", sans-serif;
 }

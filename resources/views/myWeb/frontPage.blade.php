@@ -2,14 +2,14 @@
 @push('header')
 <!-- place holder -->
         <header>
-            <h1>Why is M.F.E a Vegan?</h1>
+            <h1>Can M.F.E Stay Vegan?</h1>
         </header>
 @endpush
 @push('module')
 <!-- place holder -->
         <main>
             <section id="documentaries">
-                <h2 class='harvard'><a class="harvard" href="docs/whyMFEIsAVegan.jpg" target="_blank">*** Because ***</a></h2>
+                <h2 class='harvard'><a class="harvard" href="docs/whyMFEIsAVegan.pdf" target="_blank"> A Lacto Vegetarian!&nbsp;</a></h2>
                 <figure>
                     <figcaption><p class='titleColorTwo'>What the Health</p></figcaption>
                     <a href="http://www.whatthehealthfilm.com/" target="_blank">
