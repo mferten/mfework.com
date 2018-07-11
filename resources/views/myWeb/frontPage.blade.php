@@ -18,7 +18,7 @@
                     </a>
                     <p class='titleColorTwo'>Whole Foods</p>
                     <p class='harvard'>No Meat</p>
-                    <p class='titleColorTwo'>No Milk</p>
+                    <p class='titleColorTwo'>No Dairy</p>
                 </figure>
                 <figure>
                     <figcaption><p class='titleColorTwo'>The Magic Pill</p></figcaption>
@@ -27,7 +27,7 @@
                         alt="The Magic Pill: Netflix"/>
                     </a>
                     <p class='titleColorTwo'>Whole Foods</p>
-                    <p class='harvard'>No Milk</p>
+                    <p class='harvard'>No Dairy</p>
                     <p class='titleColorTwo'>Meat</p>
                 </figure>
                 <figure>
@@ -49,6 +49,16 @@
                     <p class='titleColorTwo'>Whole Foods</p>
                     <p class='harvard'>Nature!</p>
                     <p class='titleColorTwo'>Integration!</p>
+                </figure>
+                <figure>
+                    <figcaption><p class='titleColorTwo'>Forks Over Knives</p></figcaption>
+                    <a href="https://www.forksoverknives.com/" target="_blank">
+                        <img class="img8 aPng" src="images/forksOverKnives.jpg"
+                        alt="Forks Over Knives"/>
+                    </a>
+                    <p class='titleColorTwo'>Whole Foods</p>
+                    <p class='harvard'>Plant Based</p>
+                    <p class='titleColorTwo'>No Dairy</p>
                 </figure>
                 <figure>
                     <figcaption><p class='titleColorTwo'>Evolution of Diet</p></figcaption>
